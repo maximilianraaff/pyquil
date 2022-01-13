@@ -36,7 +36,7 @@ recommonmark
 twine
 
 # depdendency of contextvars, which we vendor
-immutables==0.6
+immutables>=0.6
 
 # pinning for mypy incompatibility
 ruamel.yaml <= 0.16.5
