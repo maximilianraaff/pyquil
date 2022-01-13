@@ -82,7 +82,7 @@ setup(
         "networkx>=2.0.0",
         "rpcq>=3.6.0",
         # dependency of contextvars, which we vendor
-        "immutables==0.6",
+        "immutables>=0.6",
     ],
     extras_require={"latex": ["ipython"],
                     "tutorials": ["forest-benchmarking", "jupyter", "matplotlib", "seaborn",
