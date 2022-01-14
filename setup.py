@@ -60,7 +60,7 @@ setup(
         'importlib-metadata==3.*,>=3.7.3; python_version < "3.8"',
         "lark==0.*,>=0.11.1",
         "networkx==2.*,>=2.5.0",
-        "numpy==1.*,>=1.20.0",
+        #"numpy==1.*,>=1.20.0",
         "qcs-api-client==0.*,>=0.8.0",
         "retry==0.*,>=0.9.2",
         "rpcq==3.*,>=3.6.0",
